@@ -21,14 +21,8 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="shaders\shader.vert">
-      <Filter>shaders</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="shaders\shader.frag">
-      <Filter>shaders</Filter>
-    </None>
     <None Include="compile.bat">
       <Filter>shaders</Filter>
     </None>
